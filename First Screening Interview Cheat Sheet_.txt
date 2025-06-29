@@ -1,0 +1,116 @@
+﻿First Screening Interview Cheat Sheet:
+
+
+Question: 1 Tell Me about Yourself
+
+
+or
+Can you walk me through your background?
+or
+Introduce yourself and your experience briefly.
+or
+Can you give a quick overview of your work journey?
+or
+Tell me a little about what you’ve been working on.
+or
+Share a bit about your role and what you’ve done so far.
+
+
+ANSWER:
+
+
+Tell me about yourself – Max 2-minute simple answer - Use this as a base. Fill in your details. Practice 5 times with a timer. No need to memorize – just make it your story.
+Small Intro:
+Thanks for giving me the Opportunity to present myself. My name is [Name], I’m from Mumbai, and I have 7 years of experience in data analytics, big data, and cloud technologies like AWS. I really enjoy working with data and building smart, scalable systems that help teams work better.
+Current Role:
+Right now, I work at Cisco. I build and manage data pipelines using tools like Airflow, Python, PySpark, and SQL. I design ETL workflows and use AWS to improve performance and reduce costs. One of my recent projects helped cut processing time by 40%, which made data available faster for business teams.
+Previous Experience:
+Before this, I worked at companies like Air Products, Accenture, and Amazon. I contributed to cloud-based data solutions, improved real-time reporting, and closely collaborated with cross-functional teams. Across these roles, I focused on building scalable systems, improving data quality, and driving better decision-making through data.
+Certifications and Learning:
+I’m certified in SQL and currently learning Google Cloud and Generative AI. I enjoy learning new technologies and staying updated to keep delivering value in a fast-changing tech space.
+Why this country, company, and role:
+I’m excited to move to [Country] to be part of diverse, international teams and work on global cloud data projects. I found this role very exciting, as it closely matches my skill set and gives me a chance to grow while contributing meaningfully.
+Closing:
+I’m a self-driven person who enjoys solving problems and building systems that make real impact. I work well with diverse teams and believe in open and respectful communication. I value collaboration over hierarchy and always aim to create a positive working environment. I'm excited about the opportunity to bring my experience, energy, and curiosity to your team and contribute from day one.
+Thank you.
+________________
+Example Template:
+________________
+Introduction:
+I am [Your Name], a Network Engineer with [X years] of experience specializing in [specific area, e.g., Network Engineering, Cloud Infrastructure, or Software Development]. I have hands-on experience with [specific tools or technologies relevant to the job, e.g., Cisco devices, AWS, Python], which aligns with the technical requirements of this role.
+Core Skills and Achievements:
+I’ve successfully [specific accomplishments, e.g., optimized network performance by 30%, automated deployment processes reducing time by 40%, or implemented security protocols that ensured compliance]. My work has directly contributed to improving operational efficiency and supporting business goals.
+Why EU and This Role:
+I am seeking opportunities in the EU to bring my expertise to global projects, particularly those involving [specific focus, e.g., large-scale cloud migrations, SD-WAN deployments, or full-stack development]. I have researched your organization and believe my skills in [specific matching skills] can add significant value to your team.
+Closing Statement:
+I’m ready to deliver results from day one, and I’m eager to collaborate on projects that drive innovation and growth. My priority is to contribute meaningfully to your team while continuing to refine my technical skills in a challenging environment.
+
+
+
+
+
+
+
+
+
+
+
+
+Questions: 2 Why do you want to work with us?
+* They're trying to see if you're genuinely interested in the company and if you've done research about them.
+OR
+Can you describe your current role and how it relates to the position you're applying for?
+* This helps them understand if your experience aligns with the job requirements.
+
+OR
+What skills do you bring to this role that will help us achieve our goals?
+
+   * This assesses whether your technical and soft skills align with their expectations.
+
+Answer:
+
+I’m really excited about the chance to join [Company Name] because I’ve been following your work in [mention specific area, e.g., cloud technologies, data analytics, etc.], and I’m impressed with what you’re doing, especially [mention a key project or value, e.g., helping businesses go digital or driving sustainability]. Your goals match mine, and I’d love to be part of your team.
+Right now, at [Current Company], I work on [briefly describe your role, e.g., managing cloud infrastructure, improving network systems, developing software]. I’ve worked on projects like [mention a relevant project], which are very similar to what you need in this role. I have hands-on experience with [mention relevant skills/tools, e.g., AWS, Python, Cisco], which I think would be really valuable here.
+Along with my technical skills, I’m also good at working with others, solving problems, and explaining things clearly. These skills have helped me collaborate across teams and make projects successful. I’m confident I can bring this same approach to your team and contribute to your goals from the start. I’m really looking forward to the opportunity to work with you.
+
+
+
+
+
+
+
+
+
+
+Question 3: Notice Period:
+      * What is your current notice period, and when can you join us?
+
+         * Be clear about your current notice period with your current employer and when you can start, keeping in mind any visa processing or relocation time.
+
+            * Would you be able to join immediately, or is there any flexibility in your notice period?
+
+               * Some companies may need you sooner than expected, so they want to check if there’s any flexibility.
+Answer:
+My current notice period is [X, 2/3 months]. However, there is a possibility to discuss it with my manager and shorten it to match your hiring needs. I’m committed to ensuring a smooth transition and can make myself available as soon as my notice period ends. I am also prepared to join within 1-2 days after my notice period ends and travel immediately if required.
+
+
+
+
+
+
+Question 4. Salary Expectation:
+               * What are your salary expectations for this role?
+I haven’t had the chance to focus much on salary expectations yet, as I’m really focused on ensuring this role is a good fit for both of us. That being said, I’m confident that I can work within the approved budget for this position. Once we reach the later stages of the interview process and I have a better understanding of the role’s full responsibilities, I’d be happy to discuss a salary range that reflects my experience and the value I can bring to your team.
+
+
+
+
+
+
+
+
+
+
+
+
+Click to Connect: Linkedin Abhishek Pal
