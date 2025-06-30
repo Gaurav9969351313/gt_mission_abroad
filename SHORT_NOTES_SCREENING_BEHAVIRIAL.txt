@@ -1,0 +1,174 @@
+﻿First Screening Interview Cheat Sheet:
+
+
+Question: 1 Tell Me about Yourself
+
+
+Thanks for giving me the Opportunity to present myself. My name is Gaurav Talele, I’m from Mumbai, and I have 9 years of experience in Java, Spring Boot, Microservices, Oracle, Docker,  and cloud technologies like AWS. I really enjoy building full stack projects.
+
+Right now, I work at BNYM.
+ 
+[Responsibilities]
+
+I build and manage data pipelines using tools like Airflow, Python, PySpark, and SQL. I design ETL workflows and use AWS to improve performance and reduce costs. One of my recent projects helped cut processing time by 40%, which made data available faster for business teams.
+
+Before this, I worked at REBIT - Which is setup for India's Central Banking IT needs. I contributed there nationwide impactful projects 
+closely collaborated with cross-functional teams. Across these roles, I focused on building scalable systems, improving data quality, and driving better decision-making through data.
+
+I enjoy learning new technologies and staying updated to keep delivering value in a fast-changing tech space.
+I’m excited to move to Netherlands to be part of diverse, international teams and to work on the global projects. I found this role very exciting, as it closely matches my skill set.
+
+I’m a self-driven person who enjoys solving problems and building systems that make real impact. I work well with diverse teams and believe in open communication. I'm excited about the opportunity to bring my experience, energy, and curiosity to your team and contribute from day one.
+
+Thank you.
+________________
+
+Why this country, company, and role:
+I have researched your organization and believe my skills in Java, Spring boot, microservices Oracle, Docker, AWS and so on can add significant value to your team.
+
+I value collaboration over hierarchy and always aim to create a positive working environment.
+
+
+## Questions: 2 Why do you want to work with us?
+
+I’m really excited about the chance to join here in this company, because Right now, at BNYM, I work as Senior Java Full Stack Engineer and managing a team of 4 developers. Not Only Managing but also, i am contributing wherever possible. I’ve worked on projects like Collateral Management, Cash and Security Settlement, which is very similar to what you need in this role. I have hands-on experience with  Java Spring Boot Microservices Oracle Kafka etc, which I think would be really valuable here.
+Along with my technical skills, I’m also good at working with others, solving problems, and explaining things clearly. These skills have helped me collaborate across teams and make projects successful. I’m confident I can bring this same approach to your team and contribute to your goals from the start. I’m really looking forward to the opportunity to work with you.
+
+## Q 3: Notice Period:
+      
+My current notice period is 2 Months. However, there is a possibility to discuss it with my manager and shorten it to match your hiring needs. I’m committed to ensuring a smooth transition and can make myself available as soon as my notice period ends. I am also prepared to join within 1-2 days after my notice period ends and travel immediately if required.
+
+## Q 4. Salary Expectation
+
+I haven’t had the chance to focus much on salary expectations yet, as I’m really focused on ensuring this role is a good fit for both of us. That being said, I’m confident that I can work within the approved budget for this position. Once we reach the later stages of the interview process and I have a better understanding of the role’s full responsibilities, I’d be happy to discuss a salary range that reflects my experience and the value I can bring to your team.
+
+
+
+
+1.	Tell me time you had to face a challenging customer.
+2.	Tell me time you had conflict with manager and how did you sort?
+3.	Tell me about a time you had to work effectively under pressure to meet a tight deadline. (Adaptability, Time Management)
+4.	Describe a situation where you disagreed with a colleague's technical approach. How did you handle it? (Communication, Teamwork)
+5.	Give an example of a time you had to learn a new technology quickly. How did you approach it? (Learning Agility, Problem-solving)
+6.	You're working with a team member from a different cultural background. How do you ensure clear communication and collaboration? (Cultural Competence, Communication)
+7.	Tell me about a time you had to explain a complex technical issue to someone with no technical background. (Communication, Client Service)
+8.	Describe a situation where you had to manage a conflict between two team members with different working styles. (Conflict Resolution, People Management)
+9.	How do you handle tight deadlines and multiple priorities? Can you give an example?(Organization, Time Management)
+10.	Give an example of a time you had to delegate tasks effectively. (Leadership, Delegation)
+11.	How do you stay motivated and keep your energy levels high when working on a long-term project? (Motivation, Self-Management)
+12.	Describe a situation where you had to adapt your communication style to suit your audience better. (Communication, Adaptability)
+Technical Skills & Problem-Solving:
+13.	Tell me about a time you failed. How did you handle the situation and what did you learn from it?(Self-Awareness, Learning from Failure)
+14.	Describe a challenging technical problem you faced recently. How did you diagnose and solve it? (Problem-solving, Analytical Thinking)
+15.	You identify a potential security risk in a system you're working on. How do you escalate the issue and ensure it's addressed? (Initiative, Accountability)
+16.	Give an example of a time you had to troubleshoot a technical issue remotely. How did you approach it? (Communication, Problem-solving)
+17.	Tell me about a time you implemented a new technology that improved efficiency or productivity. (Technical Skills, Innovation)
+18.	Describe a situation where you had to document a complex technical process for others to understand. (Communication, Documentation Skills)
+19.	How do you approach debugging complex technical issues? (Problem-solving, Analytical Thinking)
+20.	Give an example of a time you identified an opportunity to improve an existing technical process. How did you implement the change? (Innovation, Initiative)
+21.	Describe a situation where you had to troubleshoot a technical issue with limited information. How did you approach it? (Problem-solving, Critical Thinking)
+22.	How do you stay up-to-date on the latest security vulnerabilities and best practices? (Continuous Learning, Security Awareness)
+23.	Tell me about a time you had to learn a new skill or framework for a project. (Learning Agility, Technical Skills)
+24.	Global Business Acumen (21-30):
+25.	How do you stay up-to-date with the latest trends and developments in your field, especially considering the global IT landscape? (Continuous Learning, Industry Awareness)
+26.	Imagine you're working on a project with a team in another country. How would you ensure effective collaboration despite time zone differences? (Time Management, Communication)
+27.	Have you ever had to adapt your technical approach or communication style to better suit an international client? (Cultural Competence, Adaptability)
+28.	How do you see your technical skills and experience contributing to a global company? (Global Business Acumen, Self-Awareness)
+29.	Describe a situation where you had to research and understand regulatory requirements specific to a different country. (Adaptability, Global Business Awareness)
+30.	(For Senior Roles) Tell me about a time you had to mentor or lead a team, especially one with diverse technical backgrounds. (Leadership, Teamwork)
+31.	Describe a situation where you had to manage a project with a limited budget. (Resource Management, Problem-solving)
+32.	How do you approach building relationships with colleagues and clients from different cultures? (Cultural Competence, Communication)
+
+
+
+
+
+I am eager to do my best and show my problem-solving skills.
+
+Let me take a moment to gather my thoughts.
+
+This interview is an exciting challenge for me to showcase my skills.
+
+I saw an opportunity to improve time management and streamline workflows.
+
+I took time to figure it out and learned something new in the process.
+
+I saw it as a chance to step out of my comfort zone and grow.
+
+I am still improving, and every experience helps me grow.
+
+Public speaking is an area I’m actively improving by practicing regularly.
+
+I learned the importance of better planning and communication.
+
+Learning cloud architecture was challenging but worth the effort.
+
+That experience helped me refine my deployment strategy.
+
+It was a chance to prioritize tasks efficiently.
+
+The new software was an interesting puzzle to figure out.
+
+I put in effort to master automation tools and improve efficiency.
+
+I see pressure as motivation to perform better and stay focused.
+
+I saw room for growth and took on leadership opportunities.
+
+Managing a remote team was a valuable challenge that improved my communication skills.
+
+I was excited to take on the challenge and contribute.
+
+I bring a fresh perspective and a strong willingness to learn cybersecurity.
+
+Tight deadlines gave me an opportunity to excel in time management.
+
+We saw a chance to optimize workflows and improve efficiency.
+
+Leading a cross-functional team was a meaningful challenge that helped me grow.
+
+I am working on improving my multitasking skills
+
+I explored different approaches until I found the right solution.
+
+I was open to possibilities and explored different options.
+
+I take a methodical and thorough approach to ensure accuracy.
+
+I learned to manage complexity and improve my workflow.
+
+I took a thoughtful approach before stepping into leadership
+
+I am eager to learn and contribute to the team.
+
+Managing incidents was a rewarding challenge that sharpened my skills.
+
+
+
+S => Situation
+T => Task
+A => Action 
+R => Result
+
+Interview Phases: 
+	1. Screening + Cultural Fit
+	2. Tech 1
+	3. Tech 2 [Stream Programms + Solid principles + Design Patterns]
+	4. System Design
+	5. HR
+
+
+What's Remaining:
+----------------- 
+0) Screening Questions
+
+[1] Project Architecture:
+	Apache Camel based Microservices.
+	Grand Central
+	Fintech Regulatory Sandbox		
+[2] Tech Questions 
+[3] Arch Diagrams 
+[4] System Design 
+
+5) HR Managerial Round 
+
