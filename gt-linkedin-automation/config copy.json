@@ -1,0 +1,116 @@
+{
+    "linkedin_credentials": {
+        "username": "tejalsarode29@gmail.com",
+        "password": "Teju@2810"
+    },
+    "data": [
+        {
+            "id":1,
+            "cron_schedule": "31 7 * * *",  
+            "parameters": {
+                "keyword": "hiring for java",
+                "scroll_count": 30,
+                "tag": "java"
+            }
+        },
+        {   
+            "id":2,
+            "cron_schedule": "33 7 * * *", 
+            "parameters": {
+                "keyword": "hiring for data engineer",
+                "scroll_count": 30,
+                "tag": "data_engineer"
+            }
+        },
+        {
+            "id":2,
+            "cron_schedule": "35 7 * * *",  
+            "parameters": {
+                "keyword": "Visa sponsorship available",
+                "scroll_count": 30,
+                "tag": "data_engineer"
+            }
+        },
+        {
+            "id":3,
+            "cron_schedule": "40 7 * * *",  
+            "parameters": {
+                "keyword": "hiring for devops",
+                "scroll_count": 30,
+                "tag": "devops"
+            }
+        },
+        {
+            "id":4,
+            "cron_schedule": "50 7 * * *",  
+            "parameters": {
+                "keyword": "hiring for qa",
+                "scroll_count": 30,
+                "tag": "qa"
+            }
+        },
+        {
+            "id":5,
+            "cron_schedule": "0 8 * * *",  
+            "parameters": {
+                "keyword": "hiring for dotnet",
+                "scroll_count": 30,
+                "tag": "dotnet"
+            }
+        },
+        {
+            "id":6,
+            "cron_schedule": "10 8 * * *",  
+            "parameters": {
+                "keyword": "hiring for java dubai",
+                "scroll_count": 30,
+                "tag": "java"
+            }
+        },
+        {
+            "id":7,
+            "cron_schedule": "20 8 * * *",  
+            "parameters": {
+                "keyword": "hiring for java remote",
+                "scroll_count": 30,
+                "tag": "java"
+            }
+        },
+        {
+            "id":8,
+            "cron_schedule": "30 8 * * *",  
+            "parameters": {
+                "keyword": "hiring for freshers",
+                "scroll_count": 30,
+                "tag": "freshers"
+            }
+        },
+        {
+            "id": 9,
+            "cron_schedule": "25 7 * * *",  
+            "parameters": {
+                "keyword": "java contract remote",
+                "scroll_count": 30,
+                "tag": "java"
+            }
+        },
+        {
+            "id": 10,
+            "cron_schedule": "35 7 * * *",  
+            "parameters": {
+                "keyword": "java remote WFH",
+                "scroll_count": 30,
+                "tag": "java"
+            }
+        },
+        {
+            "id": 11,
+            "cron_schedule": "45 7 * * *",  
+            "parameters": {
+                "keyword": "java freelance remote",
+                "scroll_count": 30,
+                "tag": "java"
+            }
+        }
+    ]
+}

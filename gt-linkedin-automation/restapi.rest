@@ -1,0 +1,40 @@
+@baseurl=http://localhost:5000
+
+
+GET {{baseurl}}/trigger_scrapper_all HTTP/1.1
+Content-Type: application/json
+
+###
+GET  {{baseurl}}/trigger_scrapper/1 HTTP/1.1
+Content-Type: application/json
+
+###
+GET  {{baseurl}}/trigger_scrapper/2 HTTP/1.1
+Content-Type: application/json
+
+###
+GET  {{baseurl}}/trigger_scrapper/3 HTTP/1.1
+Content-Type: application/json
+
+###
+GET  {{baseurl}}/trigger_scrapper/4 HTTP/1.1
+Content-Type: application/json
+
+
+###
+GET  {{baseurl}}/trigger_scrapper/5 HTTP/1.1
+Content-Type: application/json
+
+
+###
+GET  {{baseurl}}/trigger_scrapper/6 HTTP/1.1
+Content-Type: application/json
+
+
+###
+GET  {{baseurl}}/trigger_scrapper/7 HTTP/1.1
+Content-Type: application/json
+
+###
+GET  {{baseurl}}/trigger_scrapper/8 HTTP/1.1
+Content-Type: application/json

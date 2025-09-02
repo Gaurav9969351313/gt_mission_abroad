@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Python Debugger: Current File with Arguments",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": "--csv C:\\Users\\epost\\OneDrive\\Desktop\\POC\\sam-cli-mf-tracker\\gt-linkedin-automation\\extract\\14-07-2025\\hiring_for_freshers_emails.csv --emailcol \"Email\" --fromaddr \"tejalsarode29@gmail.com\" --password \"nsjmwrpocvkogbqb\" --subject \"Java Developer - Resume: Tejal Sarode\" --resume \"C:\\Users\\epost\\OneDrive\\Desktop\\POC\\sam-cli-mf-tracker\\gt-linkedin-automation\\ind_emailers\\generic_emailer\\data\\teju\\cv_2YoE_Java_Developer_TejalSarode.pdf\" --filename \"C:\\Users\\epost\\OneDrive\\Desktop\\POC\\sam-cli-mf-tracker\\gt-linkedin-automation\\ind_emailers\\generic_emailer\\data\\teju\\cv_2YoE_Java_Developer_TejalSarode.pdf\" --html \"C:\\Users\\epost\\OneDrive\\Desktop\\POC\\sam-cli-mf-tracker\\gt-linkedin-automation\\ind_emailers\\generic_emailer\\data\\teju\\index.html\" --text \"Please see the attached file.\""
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+selenium==3.141.0
+webdriver-manager==3.1.0
+beautifulsoup4
+flask_apscheduler
+Flask
+pandas
+pywin32
