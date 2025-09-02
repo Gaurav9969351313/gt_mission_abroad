@@ -1,0 +1,3 @@
+imaplib2 
+PyPDF2
+openpyxl

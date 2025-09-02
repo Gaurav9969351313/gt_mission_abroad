@@ -1,0 +1,10 @@
+#Ignore
+Scrapped/
+__pycache__/
+Data/
+Clean Data/
+docker/upload
+
+error_log.txt
+error_log.log
+upload.py
